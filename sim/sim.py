@@ -37,6 +37,7 @@ def test_fl():
   data_spm = [ 3 for _ in range(100) ]
   fu_dfg = DFG( file_path, const_data, data_spm )
 
+  print("[cheng] Created DFG!")
   print( "----------------- FL test ------------------" )
   return
   # FL golden reference

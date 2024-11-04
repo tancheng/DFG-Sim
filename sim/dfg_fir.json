@@ -2,7 +2,7 @@
   {
     "fu"            : "Phi",
     "id"            : 0,
-    "opt"           : "OPT_PHI",
+    "opt"           : "OPT_PHI_START",
     "opt_predicate" : 1,
     "in_const"      : [0],
     "in"            : [8],
